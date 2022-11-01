@@ -40,9 +40,13 @@ If you don't see a Scripts folder, create one. Make sure it has capital S
 # Possible issues ❗
 <br>
 
+### SunHeat doesn't launch
+
+If SunHeat doen't launch?, or getting error try disable your antivirus and run SunHeat as administrator. <br>
+
 ### Freezing or Crashing
 
-If your game freezes or crashes, it's because your injected script is outdated, bugged or doesn't contain LUA script <br>
+If your game freezes or crashes, it's because your injected script is outdated, bugged or doesn't contain LUA script. <br>
 
 ### Getting Banned
 
