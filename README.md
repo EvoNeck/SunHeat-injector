@@ -42,7 +42,7 @@ If you don't see a Scripts folder, create one. Make sure it has capital S
 
 ### SunHeat doesn't launch
 
-If SunHeat doen't launch?, or getting error try disable your antivirus and run SunHeat as administrator. <br>
+If SunHeat doen't launch, or getting error try disable your antivirus and run SunHeat as administrator. <br>
 
 ### Freezing or Crashing
 
