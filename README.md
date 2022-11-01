@@ -1,7 +1,4 @@
-# SunHeat-injector
-New generation roblox injector
-
-# About SunHeat 👩‍💻
+# About SunHeat ☀
 <br>
 SunHeat is a Open-Source, lightweight script injector and executor for Roblox. It's written in C# and it's being actively developed!
 <br>
